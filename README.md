@@ -1,6 +1,6 @@
-- Hi, I’m Connor Schutze @ConnorSchut
+- Hi, I’m Connor Schutze @ConnorSchutze
 - I’m a student at Oregon State University
-- My major is Computer Science
+- I'm a computer science major
 - Languages: Python, HTML, CSS, JavaScript
 - Email: connorschutze@gmail.com
 
