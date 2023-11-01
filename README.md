@@ -1,8 +1,9 @@
-- Hi, I’m Connor Schutze @ConnorSchutze
-- I’m a student at Oregon State University
+# Hi, I’m Connor Schutze @ConnorSchutze
+---
+## Oregon State University Student
 - I'm a computer science major
-- Languages: Python, HTML, CSS, JavaScript
-- Email: connorschutze@gmail.com
+- I mainly use Python, C, C++, and C#
+---
 
 <!---
 ConnorSchut/ConnorSchut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
