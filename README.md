@@ -1,4 +1,4 @@
-# Hi, I’m Connor Schutze @ConnorSchutze
+Hi, I’m Connor Schutze @ConnorSchutze
 
 # About Me
 I’m a passionate software engineer focused on building efficient, scalable, and cross-platform solutions. My background spans RESTful API development, backend systems, and cloud-native applications. I have a strong interest in algorithms and mathematics, which fuels my curiosity for performance optimization and elegant design.
