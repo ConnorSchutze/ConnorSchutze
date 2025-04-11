@@ -9,6 +9,9 @@ If you're looking for a backend developer with a strong understanding of systems
 ## Cloud-Based Algorithmic Trading Strategies  
 Together with my team, I’m developing a cloud-hosted algorithmic trading service. This project aims to democratize access to algorithmic trading by allowing developers to fine-tune and deploy trading strategies, while giving investors real-time visibility into algorithmic decisions.
 
+## Tarpaulin
+Utilizing Google Clouds services and SQL, I developed a learning mangagement system. My system was web based and provided abilities to create coureses, employ faculty, and store attributes related to students. The design was REST based and required constant testing using Postman.
+
 # Skills
 
 ## Languages & Tools  
@@ -16,12 +19,13 @@ Together with my team, I’m developing a cloud-hosted algorithmic trading servi
 - **C / C++ / C#** – Systems-level programming and performance-critical applications  
 - **Shell Scripting** – Automation and system configuration  
 - **SQL** – Data modeling and structured queries
-- **HTML / CSS / JavaScript** - Many web development frameworks.
+- **HTML / CSS / JavaScript** - Web development with man web frameworks
 
 ## Cloud & DevOps  
 - **AWS** – EC2, Lambda, S3, CloudWatch, and IAM  
 - **Google Cloud** – Firebase, Compute Engine  
-- **Docker** – Containerization of services  
+- **Docker** – Containerization of services
+- **Postman** - Test driven development
 
 ## Design & Collaboration  
 - **Figma** – Wireframing and collaborating on UI design  
