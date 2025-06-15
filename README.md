@@ -12,6 +12,9 @@ Together with my team, I’m developing a cloud-hosted algorithmic trading servi
 ## Tarpaulin
 Utilizing Google Clouds services and SQL, I developed a learning mangagement system. My system was web based and provided abilities to create coureses, employ faculty, and store attributes related to students. The design was REST based and required constant testing using Postman.
 
+## Stemleaf
+Programmed and deployed a full-stack web application supporting 5000+ users and staff and 100 courses with persistent user enrollment tracking. Engineered a normalized SQL schema. Implemented CRUD functionality with access control.
+
 # Skills
 
 ## Languages & Tools  
