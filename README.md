@@ -22,7 +22,7 @@ Programmed and deployed a full-stack web application supporting 5000+ users and 
 - **C / C++ / C#** – Systems-level programming and performance-critical applications  
 - **Shell Scripting** – Automation and system configuration  
 - **SQL** – Data modeling and structured queries
-- **HTML / CSS / JavaScript** - Web development with man web frameworks
+- **HTML / CSS / JavaScript** - Web development with several web frameworks
 
 ## Cloud & DevOps  
 - **AWS** – EC2, Lambda, S3, CloudWatch, and IAM  
